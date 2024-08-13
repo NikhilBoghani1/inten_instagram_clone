@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019147498055",
+    "project_id": "inten-add7a",
+    "storage_bucket": "inten-add7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019147498055:android:4f3dc5c2b4f9c6baea7762",
+        "android_client_info": {
+          "package_name": "com.example.inten"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkGuy99HeuTZ5K13ii9fg7GUH1peZsHFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
